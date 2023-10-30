@@ -1,0 +1,5 @@
+title = 'Computing Resources'
+theme = "relearn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
